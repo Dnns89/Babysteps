@@ -1,0 +1,22 @@
+{
+    "name": "Dennis",
+    "stats": {
+        "plaene_erstellt": 9,
+        "uebungen_absolviert": 31,
+        "gesamtzeit": 310,
+        "kategorien": {
+            "Beinarbeit": 10,
+            "Vorhand": 15,
+            "Rückhand": 6,
+            "Eröffnung": 6,
+            "Unregelmäßig": 5,
+            "Anfänger": 11,
+            "Fortgeschritten": 8,
+            "Spielsituation": 6
+        }
+    },
+    "ziele": {
+        "woechentlich_minuten": 100,
+        "woechentlich_uebungen": 10
+    }
+}
